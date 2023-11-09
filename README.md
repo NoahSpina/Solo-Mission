@@ -1,5 +1,5 @@
 # Solo-Mission
-This game is a remake of Space Invaders followed along "Matt Heaney Apps" on youtube. I personally expanded on the game by added an Upgrades, Ship, and Statistics Screen.
+This game is a remake of Space Invaders. I personally expanded on the game by added an Upgrades, Ship, and Statistics Screen.
 
 The following image is the starting screen for the app. You can either start the game, view your statistics, change your ship, or upgrade. It also displays the current ship that you have equipped.
 ![Simulator Screenshot - iPhone 14 Pro - 2023-11-07 at 11 25 53](https://github.com/NoahSpina/Solo-Mission/assets/142749402/7413f3ad-969d-4452-900c-eff516e83ebc)
